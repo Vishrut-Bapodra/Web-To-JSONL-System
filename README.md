@@ -48,6 +48,15 @@ It removes boilerplate, filters low-quality text, and outputs **market-standard 
 
 ---
 
+## Images
+<img width="1366" height="729" alt="Screenshot 2026-02-02 103500" src="https://github.com/user-attachments/assets/0a44fe84-9c5e-4968-a272-5c0434ad893d" />
+<img width="1366" height="728" alt="Screenshot 2026-02-02 103626" src="https://github.com/user-attachments/assets/02846f72-f997-403c-b745-5b36f37b9a0f" />
+<img width="1366" height="727" alt="Screenshot 2026-02-02 103647" src="https://github.com/user-attachments/assets/3563d0df-91c1-4db1-a000-86dc08b235db" />
+<img width="1366" height="727" alt="Screenshot 2026-02-02 103738" src="https://github.com/user-attachments/assets/eb392360-a508-4c29-8408-5601212a3b79" />
+<img width="1366" height="727" alt="Screenshot 2026-02-02 103807" src="https://github.com/user-attachments/assets/5aa89b7e-84dd-49cb-979d-df16dc94f60d" />
+
+---
+
 ## Typical Use Cases
 
 - Build domain-specific RAG knowledge bases  
