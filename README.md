@@ -62,21 +62,37 @@ It removes boilerplate, filters low-quality text, and outputs **market-standard 
 
 Web-to-JSONL-System/
 │
+
 ├── app.py # Streamlit UI and control layer
+
 ├── extractor.py # Web extraction orchestration
+
 ├── strategies.py # Site-specific extraction strategies
+
 ├── chunker.py # Text chunking logic
+
 ├── cleaner.py # Boilerplate & noise removal
+
 │
+
 ├── export_profiles.py # Controls what data is exposed
+
 ├── export_writer.py # Writes user-facing JSONL
+
 ├── jsonl_writer.py # Internal schema-enforced writer
+
 │
+
 ├── qa_generator.py # Optional Q/A generation (OpenRouter)
+
 ├── dataset_appender.py # Append & deduplicate datasets
+
 │
+
 ├── requirements.txt
+
 ├── .env
+
 └── README.md
 
 
