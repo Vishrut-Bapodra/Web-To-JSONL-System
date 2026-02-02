@@ -101,17 +101,29 @@ Web-to-JSONL-System/
 ## How the Pipeline Works
 
 Web URLs
+
 ↓
+
 Extraction (HTML parsing, strategies)
+
 ↓
+
 Chunking (semantic text units)
+
 ↓
+
 Cleaning (remove boilerplate & noise)
+
 ↓
+
 Export Profiling (select output format)
+
 ↓
+
 JSONL Dataset
+
 ↓
+
 (Optional) Q/A Generation
 
 
