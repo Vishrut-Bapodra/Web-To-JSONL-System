@@ -86,8 +86,7 @@ Web-to-JSONL-System/
 
 ├── qa_generator.py # Optional Q/A generation (OpenRouter)
 
-├── dataset_appender.py # Append & deduplicate datasets
-
+├── dataset_appender.py # Append & deduplicate datasets\n
 │
 
 ├── requirements.txt
